@@ -1,4 +1,4 @@
-# 0x08. Unity - Audio
+# Timmy's journey
 
 This is a simple 3D platformer game.
 
